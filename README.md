@@ -70,12 +70,12 @@ print(df.head())
 | good.lgbt   | available | $19.99    | $105.99       | 82             | 55     | 4      | name.com          |
 | ford.lgbt   | resell    | —         | —             | 82             | 70     | 4      | 1API GmbH         |
 | data.lgbt   | premium   | $3,900    | $3,900        | 70             | 56     | 4      | namecheap         |
-| fast.lgbt   | available | $19.99    | $105.99       | 82             | 53     | 4      | name.com          |
+| fast.lgbt   | available | $19.99    | $105.99       | 82             | 52     | 4      | name.com          |
 | adobe.lgbt  | resell    | —         | —             | 72             | 70     | 5      | 1API GmbH         |
-| design.lgbt | premium   | $2,500    | $2,500        | 108            | 50     | 6      | name.com          |
+| abc.lgbt    | premium   | $85.80    | $85.80        | 102            | 50     | 3      | namecheap         |
 | one.lgbt    | available | $19.99    | $105.99       | 132            | 50     | 3      | name.com          |
 | tesla.lgbt  | resell    | —         | —             | 86             | 61     | 5      | 1API GmbH         |
-| abc.lgbt    | premium   | $85.80    | $85.80        | 102            | 50     | 3      | namecheap         |
+| design.lgbt | premium   | $2,500    | $2,500        | 108            | 49     | 6      | name.com          |
 | game.lgbt   | available | $19.99    | $105.99       | 120            | 49     | 4      | name.com          |
 | the.lgbt    | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC - 44 |
 | air.lgbt    | premium   | $650      | $650          | 84             | 49     | 3      | namecheap         |
