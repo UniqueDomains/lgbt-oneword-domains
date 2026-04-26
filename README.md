@@ -1,22 +1,22 @@
-# Available .LGBT One-Word Domains (9,544)
+# Available .LGBT One-Word Domains (11,975)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C544%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C544%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C975%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .lgbt one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .lgbt one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,975 domains** on the canonical page below.
 
-**Public extract:** 9,544 rows · **Live catalog:** 9,544 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,975 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/lgbt`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .LGBT one-word domain 
 
 ### Files
 
-- `lgbt.csv` — public CSV extract (9,544 rows)
-- `lgbt.json` — public JSON extract (9,544 rows)
+- `lgbt.csv` — public CSV extract (1,000 rows)
+- `lgbt.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| echo.lgbt   | available | $19.99    | —             | 68             | 57     | 4      | name.com          |
-| single.lgbt | resell    | $2,678.35 | $105.99       | 74             | 23     | 6      | OVH SAS           |
-| power.lgbt  | premium   | $85.80    | $85.80        | 98             | 62     | 5      | namecheap         |
-| good.lgbt   | available | $19.99    | $105.99       | 82             | 55     | 4      | name.com          |
-| ford.lgbt   | resell    | —         | —             | 82             | 70     | 4      | 1API GmbH         |
-| data.lgbt   | premium   | $3,900    | $3,900        | 70             | 56     | 4      | namecheap         |
-| fast.lgbt   | available | $19.99    | $105.99       | 82             | 52     | 4      | name.com          |
-| adobe.lgbt  | resell    | —         | —             | 72             | 70     | 5      | 1API GmbH         |
-| abc.lgbt    | premium   | $85.80    | $85.80        | 102            | 50     | 3      | namecheap         |
-| one.lgbt    | available | $19.99    | $105.99       | 132            | 50     | 3      | name.com          |
-| tesla.lgbt  | resell    | —         | —             | 86             | 61     | 5      | 1API GmbH         |
-| design.lgbt | premium   | $2,500    | $2,500        | 108            | 49     | 6      | name.com          |
-| game.lgbt   | available | $19.99    | $105.99       | 120            | 49     | 4      | name.com          |
-| the.lgbt    | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC - 44 |
-| air.lgbt    | premium   | $650      | $650          | 84             | 49     | 3      | namecheap         |
-| trade.lgbt  | available | $93.98    | —             | 116            | 46     | 5      | namecheap         |
-| live.lgbt   | resell    | —         | —             | 108            | 56     | 4      | GoDaddy.com, LLC  |
-| real.lgbt   | premium   | $650      | $650          | 78             | 49     | 4      | namecheap         |
-| only.lgbt   | available | $19.99    | $105.99       | 110            | 46     | 4      | name.com          |
-| local.lgbt  | resell    | —         | —             | 102            | 54     | 5      | GoDaddy.com, LLC  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| skills.lgbt       | available | $19.99    | —             | 58             | 47     | 6      | name.com  |
+| online.lgbt       | premium   | $3,750    | —             | 70             | 62     | 7      | name.com  |
+| Tools.lgbt        | available | $93.98    | —             | 56             | 40     | 5      | namecheap |
+| maps.lgbt         | premium   | $85.99    | —             | 56             | 31     | 4      | name.com  |
+| matcha.lgbt       | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
+| inspiration.lgbt  | premium   | $85.99    | —             | 88             | 30     | 11     | name.com  |
+| lets.lgbt         | available | $19.99    | —             | 77             | 39     | 4      | name.com  |
+| SanDiego.lgbt     | premium   | $2,500    | —             | 74             | 29     | 9      | name.com  |
+| justin.lgbt       | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
+| dogs.lgbt         | premium   | $85.99    | —             | 76             | 28     | 4      | name.com  |
+| quotes.lgbt       | available | $19.99    | —             | 58             | 29     | 6      | name.com  |
+| comics.lgbt       | premium   | $85.99    | —             | 68             | 24     | 6      | name.com  |
+| blocks.lgbt       | available | $19.99    | —             | 53             | 29     | 6      | name.com  |
+| shops.lgbt        | premium   | $2,500    | —             | 64             | 24     | 5      | name.com  |
+| commonground.lgbt | available | $19.99    | —             | 74             | 28     | 13     | name.com  |
+| oceans.lgbt       | premium   | $85.99    | —             | 64             | 22     | 6      | name.com  |
+| gems.lgbt         | available | $19.99    | —             | 70             | 28     | 4      | name.com  |
+| brothers.lgbt     | premium   | $2,500    | —             | 60             | 22     | 8      | name.com  |
+| photos.lgbt       | available | $19.99    | —             | 54             | 28     | 6      | name.com  |
+| designs.lgbt      | premium   | $625      | —             | 72             | 21     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,544-row public sample | 9,544 live domains                               |
+| 1,000-row public sample | 11,975 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
