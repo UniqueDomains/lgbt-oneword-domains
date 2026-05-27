@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lgbt one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,488 domains · **Median ask:** $73.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/lgbt`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.lgbt        | available | $93.98    | —             | 80             | 5      | 5      | namecheap |
-| Trex.lgbt        | available | $93.98    | —             | 80             | 24     | 5      | namecheap |
-| finals.lgbt      | available | $19.99    | —             | 80             | 7      | 6      | name.com  |
-| jewels.lgbt      | available | $19.99    | —             | 80             | 15     | 6      | name.com  |
-| matcha.lgbt      | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
-| useit.lgbt       | available | $19.99    | —             | 94             | 7      | 6      | name.com  |
-| gearup.lgbt      | available | $19.99    | —             | 80             | 16     | 7      | name.com  |
-| playin.lgbt      | available | $19.99    | —             | 80             | 10     | 7      | name.com  |
-| pierogi.lgbt     | available | $19.99    | —             | 82             | 7      | 7      | name.com  |
-| stirup.lgbt      | available | $19.99    | —             | 82             | 3      | 7      | name.com  |
-| dogsick.lgbt     | available | $19.99    | —             | 90             | 1      | 7      | name.com  |
-| getlife.lgbt     | available | $19.99    | —             | 80             | 5      | 8      | name.com  |
-| skills.lgbt      | available | $19.99    | —             | 58             | 47     | 6      | name.com  |
-| online.lgbt      | premium   | $3,750    | —             | 70             | 62     | 7      | name.com  |
-| Tools.lgbt       | available | $93.98    | —             | 56             | 40     | 5      | namecheap |
-| maps.lgbt        | premium   | $85.99    | —             | 56             | 31     | 4      | name.com  |
-| inspiration.lgbt | premium   | $85.99    | —             | 88             | 30     | 11     | name.com  |
-| lets.lgbt        | available | $19.99    | —             | 77             | 39     | 4      | name.com  |
-| SanDiego.lgbt    | premium   | $2,500    | —             | 74             | 29     | 9      | name.com  |
-| justin.lgbt      | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.lgbt     | available | $93.98    | —             | 80             | 5      | 5      | namecheap |
+| Trex.lgbt     | available | $93.98    | —             | 80             | 24     | 5      | namecheap |
+| finals.lgbt   | available | $19.99    | —             | 80             | 7      | 6      | name.com  |
+| jewels.lgbt   | available | $19.99    | —             | 80             | 15     | 6      | name.com  |
+| matcha.lgbt   | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
+| useit.lgbt    | available | $19.99    | —             | 94             | 7      | 6      | name.com  |
+| gearup.lgbt   | available | $19.99    | —             | 80             | 16     | 7      | name.com  |
+| playin.lgbt   | available | $19.99    | —             | 80             | 10     | 7      | name.com  |
+| pierogi.lgbt  | available | $19.99    | —             | 82             | 7      | 7      | name.com  |
+| stirup.lgbt   | available | $19.99    | —             | 82             | 3      | 7      | name.com  |
+| dogsick.lgbt  | available | $19.99    | —             | 90             | 1      | 7      | name.com  |
+| getlife.lgbt  | available | $19.99    | —             | 80             | 5      | 8      | name.com  |
+| skills.lgbt   | available | $19.99    | —             | 58             | 47     | 6      | name.com  |
+| online.lgbt   | premium   | $3,750    | —             | 70             | 62     | 7      | name.com  |
+| Tools.lgbt    | available | $93.98    | —             | 56             | 40     | 5      | namecheap |
+| maps.lgbt     | premium   | $85.99    | —             | 56             | 31     | 4      | name.com  |
+| SanDiego.lgbt | premium   | $2,500    | —             | 74             | 29     | 9      | name.com  |
+| lets.lgbt     | available | $19.99    | —             | 77             | 39     | 4      | name.com  |
+| dogs.lgbt     | premium   | $85.99    | —             | 76             | 28     | 4      | name.com  |
+| justin.lgbt   | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
