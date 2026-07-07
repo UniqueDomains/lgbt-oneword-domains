@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .lgbt one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,488 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,488 domains · **Median ask:** $73.25 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,488 domains · **Median ask:** $78.14 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/lgbt`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/lgbt`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LGBT one-word domain 
 
 ### Files
 
-- `lgbt.csv` — public CSV extract (1,000 rows)
-- `lgbt.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `lgbt.csv`, public CSV extract (1,000 rows)
+- `lgbt.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.lgbt     | available | $93.98    | —             | 80             | 5      | 5      | namecheap |
-| Trex.lgbt     | available | $93.98    | —             | 80             | 24     | 5      | namecheap |
-| finals.lgbt   | available | $19.99    | —             | 80             | 7      | 6      | name.com  |
-| jewels.lgbt   | available | $19.99    | —             | 80             | 15     | 6      | name.com  |
-| matcha.lgbt   | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
-| useit.lgbt    | available | $19.99    | —             | 94             | 7      | 6      | name.com  |
-| gearup.lgbt   | available | $19.99    | —             | 80             | 16     | 7      | name.com  |
-| playin.lgbt   | available | $19.99    | —             | 80             | 10     | 7      | name.com  |
-| pierogi.lgbt  | available | $19.99    | —             | 82             | 7      | 7      | name.com  |
-| stirup.lgbt   | available | $19.99    | —             | 82             | 3      | 7      | name.com  |
-| dogsick.lgbt  | available | $19.99    | —             | 90             | 1      | 7      | name.com  |
-| getlife.lgbt  | available | $19.99    | —             | 80             | 5      | 8      | name.com  |
-| skills.lgbt   | available | $19.99    | —             | 58             | 47     | 6      | name.com  |
-| online.lgbt   | premium   | $3,750    | —             | 70             | 62     | 7      | name.com  |
-| Tools.lgbt    | available | $93.98    | —             | 56             | 40     | 5      | namecheap |
-| maps.lgbt     | premium   | $85.99    | —             | 56             | 31     | 4      | name.com  |
-| SanDiego.lgbt | premium   | $2,500    | —             | 74             | 29     | 9      | name.com  |
-| lets.lgbt     | available | $19.99    | —             | 77             | 39     | 4      | name.com  |
-| dogs.lgbt     | premium   | $85.99    | —             | 76             | 28     | 4      | name.com  |
-| justin.lgbt   | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| out.lgbt     | available | —         | —             | high           | low    | 3      | —                 |
+| bad.lgbt     | available | $19.99    | —             | high           | medium | 3      | name.com          |
+| content.lgbt | available | $19.99    | $105.99       | high           | low    | 7      | name.com          |
+| off.lgbt     | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| find.lgbt    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| BBC.lgbt     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
+| car.lgbt     | available | $19.99    | —             | high           | medium | 3      | name.com          |
+| live.lgbt    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
+| bra.lgbt     | premium   | $625      | —             | medium         | low    | 3      | name.com          |
+| cow.lgbt     | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| shoes.lgbt   | resell    | —         | —             | high           | low    | 5      | 1API GmbH         |
+| mop.lgbt     | premium   | $625      | —             | high           | low    | 3      | name.com          |
+| ego.lgbt     | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| world.lgbt   | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 44 |
+| golf.lgbt    | premium   | $625      | —             | high           | medium | 4      | name.com          |
+| era.lgbt     | available | $19.99    | —             | high           | medium | 3      | name.com          |
+| Guys.lgbt    | premium   | $2,500    | —             | medium         | low    | 4      | name.com          |
+| ice.lgbt     | available | $19.99    | —             | medium         | medium | 3      | name.com          |
+| sexy.lgbt    | premium   | $2,500    | —             | high           | low    | 4      | name.com          |
+| icu.lgbt     | available | $19.99    | —             | high           | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .lgbt domains. The set mixes short utility words, action words, and broad nouns, with examples such as Acup.lgbt, WiFi.lgbt, finals.lgbt, jewels.lgbt, getup.lgbt, and popup.lgbt. For founders, the main question is whether the word is easy to say, easy to remember, and specific enough to support a real brand. For investors, the key is whether the word has broad commercial use and enough clarity to support resale interest. The median ask is 73.25, which makes price discipline important, but name quality still matters more than a low entry point.
+This set of 12,488 one-word .lgbt domain names spans everyday English words — from short reactions like okay.lgbt and bad.lgbt to seasonal terms like christmas.lgbt and half.lgbt. Each domain pairs a single recognizable word with the .lgbt extension, giving LGBTQ-focused brands, communities, and creators a direct, ownable identity. The median ask across this list is $78, keeping most of these one-word names within reach for individual buyers and small teams.
 
-- Prefer words that are easy to say, spell, and recall
-- Check if the term is broad enough for reuse or resale
-- Compare ask price against the word's clarity and strength
-- Watch for trademark sensitivity in exact brand-like terms
+- 12,488 one-word .lgbt domains, from out.lgbt to great.lgbt
+- Median ask around $78 — budget-friendly for short domains
+- Everyday English words make these names easy to recall
+- Updated daily as new .lgbt domain listings become available
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
