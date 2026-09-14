@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lgbt one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,404 domains · **Median ask:** $44.53 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/lgbt`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,11 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| out.lgbt   | available | —         | —             | high           | low    | 3      | —                 |
+| bad.lgbt   | available | $19.99    | —             | high           | medium | 3      | name.com          |
 | ain.lgbt   | available | $11.98    | $93.98        | low            | low    | 3      | namecheap         |
 | find.lgbt  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
 | BBC.lgbt   | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo          |
-| bad.lgbt   | available | $19.99    | —             | high           | medium | 3      | name.com          |
 | live.lgbt  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
 | bra.lgbt   | premium   | $625      | —             | medium         | low    | 3      | name.com          |
 | car.lgbt   | available | $19.99    | —             | high           | medium | 3      | name.com          |
@@ -83,7 +84,6 @@ print(df.head())
 | ice.lgbt   | available | $19.99    | —             | medium         | medium | 3      | name.com          |
 | shop.lgbt  | premium   | $2,500    | —             | high           | medium | 4      | name.com          |
 | icu.lgbt   | available | $19.99    | —             | high           | low    | 3      | name.com          |
-| show.lgbt  | premium   | $650      | $650          | high           | low    | 4      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
