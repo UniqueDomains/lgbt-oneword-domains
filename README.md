@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lgbt one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,950 domains · **Median ask:** $39.89 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/lgbt`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| bad.lgbt   | available | $19.99    | —             | high           | medium | 3      | name.com         |
 | ain.lgbt   | available | $11.98    | $93.98        | low            | low    | 3      | namecheap        |
 | find.lgbt  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
 | bra.lgbt   | premium   | $625      | —             | medium         | low    | 3      | name.com         |
-| bad.lgbt   | available | $19.99    | —             | high           | medium | 3      | name.com         |
 | live.lgbt  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | mop.lgbt   | premium   | $625      | —             | high           | low    | 3      | name.com         |
 | car.lgbt   | available | $19.99    | —             | high           | medium | 3      | name.com         |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
