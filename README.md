@@ -1,10 +1,10 @@
-# Available .LGBT One-Word Domains (32,652)
+# Available .LGBT One-Word Domains (22,966)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C652%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C966%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .lgbt one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,652 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,966 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,652 domains · **Median ask:** $37.85 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 22,966 domains · **Median ask:** $51.68 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/lgbt`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| ain.lgbt   | available | $11.98    | $93.98        | high           | low    | 3      | namecheap   |
-| find.lgbt  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC |
-| atp.lgbt   | premium   | $625      | —             | high           | low    | 3      | name.com    |
-| ale.lgbt   | available | $19.99    | —             | high           | low    | 3      | name.com    |
-| block.lgbt | resell    | —         | —             | high           | low    | 5      | 1API GmbH   |
-| bra.lgbt   | premium   | $625      | —             | high           | low    | 3      | name.com    |
-| ann.lgbt   | available | $19.99    | —             | high           | low    | 3      | name.com    |
-| shoes.lgbt | resell    | —         | —             | high           | low    | 5      | 1API GmbH   |
-| gym.lgbt   | premium   | $2,500    | —             | high           | low    | 3      | name.com    |
-| boo.lgbt   | available | $19.99    | —             | high           | low    | 3      | name.com    |
-| ing.lgbt   | premium   | $625      | —             | high           | low    | 3      | name.com    |
-| bug.lgbt   | available | $19.99    | —             | high           | low    | 3      | name.com    |
-| kid.lgbt   | premium   | $625      | —             | high           | low    | 3      | name.com    |
-| car.lgbt   | available | $19.99    | —             | high           | medium | 3      | name.com    |
-| kit.lgbt   | premium   | $625      | —             | high           | low    | 3      | name.com    |
-| cow.lgbt   | available | $19.99    | —             | high           | low    | 3      | name.com    |
-| mop.lgbt   | premium   | $625      | —             | high           | low    | 3      | name.com    |
-| cry.lgbt   | available | $19.99    | —             | high           | low    | 3      | name.com    |
-| nyc.lgbt   | premium   | $3,750    | —             | high           | medium | 3      | name.com    |
-| des.lgbt   | available | $19.99    | —             | high           | low    | 3      | name.com    |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| identity.lgbt | premium   | $2,660    | $2,660        | high           | medium | 8      | namesilo  |
+| epic.lgbt     | available | $14.99    | $79.99        | high           | medium | 4      | namesilo  |
+| adz.lgbt      | available | $14.99    | $79.99        | medium         | low    | 3      | namesilo  |
+| democrat.lgbt | resell    | —         | —             | high           | low    | 8      | 1API GmbH |
+| aas.lgbt      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| aec.lgbt      | available | $14.99    | $79.99        | high           | low    | 3      | namesilo  |
+| ara.lgbt      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| ans.lgbt      | available | $14.99    | $79.99        | medium         | low    | 3      | namesilo  |
+| fda.lgbt      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| awe.lgbt      | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| gel.lgbt      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| bns.lgbt      | available | $14.99    | $79.99        | high           | low    | 3      | namesilo  |
+| hiv.lgbt      | premium   | $2,660    | $2,660        | high           | low    | 3      | namesilo  |
+| chu.lgbt      | available | $14.99    | $79.99        | medium         | low    | 3      | namesilo  |
+| kid.lgbt      | premium   | $640      | $640          | high           | low    | 3      | namesilo  |
+| fed.lgbt      | available | $11.98    | $93.98        | high           | low    | 3      | namecheap |
+| won.lgbt      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| gip.lgbt      | available | $11.98    | $93.98        | medium         | low    | 3      | namecheap |
+| fall.lgbt     | premium   | $625      | —             | high           | low    | 4      | name.com  |
+| ike.lgbt      | available | $19.99    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,652 live domains                        |
+| 1,000-row public sample | 22,966 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LGBT One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
